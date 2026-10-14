@@ -44,20 +44,10 @@
 
 <p data-importer="text" align="left">About me... <br><br>- I'm 20 years old.  <br><br>- I tend to perform leadership roles in my projects; I like to transmit a calm and optimistic energy to my peers during work time to guarantee a low-stress workspace. <br><br>- I'm currently working on mastering and specializing in data structures, SQL and NoSQL. I want to be able to adapt and work with different models fluently. <br><br>- I love card games and puzzle ; I like to perform alternative lines of play to achieve victory in tricky situations</p>
 
-###
 
-<div data-importer="stats" align="center">
-  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
-  <img src="./profile/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoreyes-bit&show_icons=true&locale=en" alt="rodrigoreyes-bit" /></p>
 
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="./profile/snake.svg" alt="Snake animation" />
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoreyes-bit&" alt="rodrigoreyes-bit" /></p>
 
 <div data-importer="border">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
