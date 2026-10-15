@@ -1,6 +1,5 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Rodrigo Reyes and I'm a Civil Engineering student in Computing and Informatics from Chile.</h2>
 
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
